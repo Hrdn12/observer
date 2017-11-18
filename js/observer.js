@@ -83,7 +83,7 @@ class User {
         node.appendChild(title).innerHTML = `${hh}:${mm}:${ss}`;
         node.appendChild(textnode);
     }
-   g
+    
     addItem (ul) {
         let user = this,
             list = ul,
